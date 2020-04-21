@@ -9,5 +9,5 @@ You will need to finish this by the **morning of your interview date**. Look at 
 2. Create a login page with a fake form to login with a email and a password. Upon logging in, the email state should be saved and the user should be redirected to the root url: `localhost:3000/` (or any other port)
 3. Edit the home page to retrieve the user state and display it in any way you want. Let your creativity run free!!!
 4. The home page should also be accessible by logged in users. If a user is not logged in, display an error and return the user to the login page.
-4. Invite the following github users to your repo: StoneT2000, stanleylee, paulpan05, sumeet-bansal, annsudhart (sorry for the long list)
-5. You will need to finish this by the **morning of your interview date**
+5. Invite the following github users to your repo: StoneT2000, stanleylee, paulpan05, sumeet-bansal, annsudhart (sorry for the long list)
+6. You will need to finish this by the **morning of your interview date**
